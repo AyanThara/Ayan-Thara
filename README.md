@@ -13,7 +13,7 @@ I believe in learning by doing and continuously improving my skills through hand
 
 ## 💻 Tech Stack
 **Languages & Tools:**  
-C++ · C · C# · Java · Python · HTML5 · CSS3 ·Linux  
+C++ · C · C# · Java · Python · HTML5 · CSS3 ·Linux  ·Sql
 Git · GitHub · Apache · Maven · NumPy · Pandas · Matplotlib
 
 ---
